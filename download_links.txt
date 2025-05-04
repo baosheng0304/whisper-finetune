@@ -1,0 +1,12 @@
+https://github.com/GyanD/codexffmpeg/releases/download/7.1.1/ffmpeg-7.1.1-essentials_build.zip
+https://download.pytorch.org/whl/cu118/torch-2.6.0%2Bcu118-cp39-cp39-win_amd64.whl#sha256=a673a03197e2e25491a1cd999ba687b674d30dd4d252088ae3c1e597bdb49f2f
+https://developer.download.nvidia.com/compute/cuda/11.8.0/local_installers/cuda_11.8.0_522.06_windows.exe
+https://developer.download.nvidia.com/compute/cudnn/redist/cudnn/windows-x86_64/cudnn-windows-x86_64-8.9.7.29_cuda11-archive.zip
+https://www.python.org/ftp/python/3.9.11/python-3.9.11-amd64.exe
+
+https://huggingface.co/openai/whisper-small/resolve/main/model.safetensors?download=true
+https://huggingface.co/openai/whisper-tiny/resolve/main/model.safetensors?download=true
+https://huggingface.co/openai/whisper-base/resolve/main/model.safetensors?download=true
+https://huggingface.co/openai/whisper-medium/resolve/main/model.safetensors?download=true
+
+https://github.com/ggml-org/whisper.cpp
